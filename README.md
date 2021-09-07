@@ -1,5 +1,12 @@
 ### Hi there 👋
 - 🌱 Java and Python developer.
+
+Email
+- 📫 filipefranca2@gmail.com
+
+Social Medias
+- 😄 Instagram https://www.instagram.com/filipelustosaf/
+- 😄 LinkedIn https://www.linkedin.com/in/filipe-lustosa-franca-027288116/
 <!--
 **filipelustosaf/filipelustosaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
