@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Filipe 👋
 - 🌱 Java and Python developer.
 
 Email
