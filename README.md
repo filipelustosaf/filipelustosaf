@@ -1,4 +1,4 @@
-### Olá, eu sou o Filipe Lustosa! 👋
+### Olá, eu sou o Filipe Lustosa Franca! 👋
 
  <div>
   <a href="https://github.com/filipelustosaf">
